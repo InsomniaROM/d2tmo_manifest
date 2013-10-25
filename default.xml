@@ -12,13 +12,8 @@
           fetch="https://github.com/" />
   <remote name="ck"
           fetch="https://github.com/InsomniaROM/" />
-  <remote name="lw"
-          fetch="https://github.com/LokiWuh/"
-          review="" />
   <remote name="linaro"
           fetch="git://android.git.linaro.org/" />
-  <remote name="gh"
-           fetch="git://github.com/" />
   <remote name="dt"
           fetch="https://github.com/DeviceTREE/" />      
          
